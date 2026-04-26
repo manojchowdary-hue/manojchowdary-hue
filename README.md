@@ -1,25 +1,28 @@
-# 💻 MERN Stack Developer Journey 🚀
+# 💻 MERN Stack Developer & UI/UX Enthusiast 🚀
 
-Hi there 👋, I'm Manoj Chowdary
+Hi 👋, I'm Manoj Kumar
 
-🚀 Passionate MERN Stack Developer & Machine Learning Enthusiast building real-world applications.
+I am a passionate MERN Stack Developer and aspiring UI/UX Designer focused on building real-world, user-friendly web applications.
 
 ---
 
 ## 🎯 Goals
+
 * Become a job-ready Full Stack Developer
-* Master MERN Stack (MongoDB, Express.js, React, Node.js)
-* Build real-world projects
-* Maintain consistency and share my journey
+* Build scalable and user-centric applications
+* Improve UI/UX design skills using Figma
+* Share my learning journey consistently
 
 ---
 
 ## 🛠️ Tech Stack
+
 * 💡 JavaScript (ES6+)
 * ⚛️ React.js
 * 🌐 Node.js & Express.js
 * 🗄️ MongoDB
 * 🎨 HTML, CSS
+* 🎯 UI/UX Design (Figma)
 * 🔧 Git & GitHub
 * 🐍 Python | scikit-learn | Flask | Streamlit
 
@@ -28,34 +31,39 @@ Hi there 👋, I'm Manoj Chowdary
 ## 📂 Projects
 
 ### 🫀 Machine Learning
-| Project | Tech Stack | Accuracy |
-|---------|-----------|----------|
-| [Heart Disease Prediction System](https://github.com/manojchowdary-hue/heart-disease-prediction-ml) | Python, Random Forest, Flask, Streamlit | 100% ✅ |
 
-### 🌐 MERN Stack (Coming Soon 🔥)
+**Heart Disease Prediction System**
+Tech Stack: Python, Random Forest, Flask, Streamlit
+✔ Built a predictive model with strong performance and deployed using Flask & Streamlit
+
+---
+
+### 🌐 MERN Stack (In Progress 🚧)
+
 * To-Do App
 * Weather App
-* College Portal (Full Stack Project)
+* College Portal (Authentication, Dashboard, Admin Panel)
 
 ---
 
-## 📈 Progress Log
-* ✅ Minor Project: Heart Disease Prediction System using ML — 100% Accuracy achieved! 🫀
-* ✅ Day 1: Started MERN journey, GitHub setup done
-* 🚧 Day 2+: JavaScript + React projects in progress
+## 📈 Progress
+
+* ✅ Built ML Project with deployment
+* 🚧 Currently building MERN stack projects
+* 🎨 Started UI/UX design journey using Figma
 
 ---
 
-## 📌 Note
-This repository tracks my learning journey and projects. I will keep updating regularly 🚀
+## 📌 About This Repo
+
+This repository tracks my journey in full stack development and UI/UX design. I am continuously learning and building projects to improve my skills.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojchowdary-hue&show_icons=true&theme=dark)
+## 🔗 Connect with Me
+
+* 💼 LinkedIn: Manoj Kumar
+* 🐙 GitHub: manojchowdary-hue
 
 ---
 
-## 🔗 Connect with me
-* 💼 LinkedIn: [Manoj Kumar](https://www.linkedin.com/in/manojchowdary-hue)
-* 🐙 GitHub: [manojchowdary-hue](https://github.com/manojchowdary-hue)
